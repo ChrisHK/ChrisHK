@@ -18,7 +18,7 @@
 </a>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrishk&theme=github"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrishk">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrishk&theme=github">
 </div>
 
 <!--
